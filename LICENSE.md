@@ -1,4 +1,4 @@
-# 
+# Premium AI Sentiment Analysis for Social Media scripts. Com análise preditiva e ética de IA — otimizado para máximo desempenho.
 
 
 
